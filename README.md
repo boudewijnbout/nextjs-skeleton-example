@@ -1,4 +1,4 @@
-A simple example of using skeleton loaders using React Suspense when loading data
+A simple example of using skeleton loading using React Suspense when loading data
 
 ## Getting Started
 
